@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
       bet: 'Real Madrid Ganador & Ambos Anotan',
       odds: 'Momio: 2.30 (Pinnacle)',
       confidence: 'Alta (92% de éxito en simulaciones)',
-      roi: '+18.4% (ROI Histórico del modelo)',
+      roi: '+33.1% (ROI Histórico del modelo)',
       analysis: 'Borussia Dortmund presenta baja del defensor central por lesión. Real Madrid promedia 2.6 goles de local. Las cuotas de Pinnacle se movieron de 2.15 a 2.30, indicando valor matemático.'
     },
     {
