@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       sender: 'bot',
       type: 'text',
-      content: '👉 <a href="https://t.me/OraculoDeBeltfos" target="_blank" style="color:#ff007f; font-weight:700; text-decoration:underline;">Probar el Oráculo</a>'
+      content: '👉 <a href="https://t.me/beltfospro" target="_blank" style="color:#ff007f; font-weight:700; text-decoration:underline;">Probar el Oráculo</a>'
     }
   ];
 
