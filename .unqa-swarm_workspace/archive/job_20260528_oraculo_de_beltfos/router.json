@@ -1,0 +1,14 @@
+{
+  "job_id": "job_20260528_oraculo_de_beltfos",
+  "project_name": "El Oráculo De Beltfos Landing Page",
+  "architect_name": "Architect-Design",
+  "manager_name": "provision-script",
+  "owner_name": "Owner-Antigravity",
+  "global_status": "merged",
+  "batch_limit": 3,
+  "created_at": "2026-05-28T23:50:20.775Z",
+  "updated_at": "2026-05-28T17:54:20-06:00",
+  "tasks": {
+    "01_create_landing_page": "done"
+  }
+}

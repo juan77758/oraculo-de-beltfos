@@ -1,0 +1,41 @@
+{
+  "task_id": "01_create_landing_page",
+  "description": "Create the single-page application structure (`index.html`), premium styles with dark aubergine and fuchsia glow (`index.css`), and the dynamic chat animation/accordion logic (`index.js`).",
+  "dependencies": [],
+  "assigned_skills": [],
+  "target_file": "index.html",
+  "current_status": "done",
+  "workers_assigned": ["Worker-Orion"],
+  "context_files_to_read": [
+    "logo.png",
+    "logo 2.jpg",
+    "oraculo.png",
+    "portada.jpg"
+  ],
+  "anti_goals": [
+    "Do NOT use TailwindCSS",
+    "Do NOT use React/Next/Vite",
+    "Do NOT use external UI frameworks"
+  ],
+  "api_contract": {},
+  "status_history": [
+    {
+      "status": "pending",
+      "timestamp": "2026-05-28T23:50:20.775Z",
+      "changed_by": "provision-script",
+      "notes": "Mapped from masterplan."
+    },
+    {
+      "status": "in_progress",
+      "timestamp": "2026-05-28T17:50:28-06:00",
+      "changed_by": "Worker-Orion",
+      "notes": "Claimed task."
+    },
+    {
+      "status": "done",
+      "timestamp": "2026-05-28T17:51:50-06:00",
+      "changed_by": "Worker-Orion",
+      "notes": "Created premium HTML5 layout with animated chat simulator and CSS styling. Verified syntax."
+    }
+  ]
+}
